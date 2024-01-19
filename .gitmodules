@@ -1,0 +1,6 @@
+[submodule "dsp"]
+	path = dsp
+	url = git@github.com:SCGANieFan/dspSim_matlab.git
+[submodule "codec"]
+	path = codec
+	url = git@github.com:SCGANieFan/multimediaCodecSim_Matlab.git
